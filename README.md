@@ -7,6 +7,8 @@ This repository contains the code to train and evaluate models for the project I
 The dataset is available for download here http://vireo.cs.cityu.edu.hk/VireoFood172/ .
 
 ## Implementation
-### fds
+##### VGG-feature
+##### Pooling by region
+##### Output dish name by calculating similarity
 
 
