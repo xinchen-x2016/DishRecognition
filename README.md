@@ -9,7 +9,8 @@ label and split download: http://vireo.cs.cityu.edu.hk/VireoFood172/SplitAndIngr
 
 
 ## Code
-Two methods of implementation:
+#### Make dataset: 'make_dataset.py'
+Two methods of classification:
 #### 1, VGG16, modify and train only last two classifier layers, "VGG_classification.ipynb"
 #### 2, Cross model, using pretrained features layers of VGG16, construct and train embedding layers and pooling methods, taking ingredients and cutting informations into consideration, "Ingredient_recognition_4.ipynb"
 
